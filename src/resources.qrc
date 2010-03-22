@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/cdjewel.png</file>
+        <file>resources/noimage.jpg</file>
+    </qresource>
+</RCC>
